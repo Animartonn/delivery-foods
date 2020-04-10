@@ -1,4 +1,4 @@
-const cartButton = document.querySelector("#cart_button");
+const cartButton = document.querySelector("#basket_button");
 const modal = document.querySelector(".modal");
 const close = document.querySelector(".close");
 
